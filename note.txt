@@ -1,0 +1,51 @@
+
+artboard for lg screen 
+
+fonts--
+
+font-family: 'Poppins';
+font-weight: 400, 500, 700,
+font-family: 'Poppins', sans-serif;
+
+
+
+font-family: 'Roboto';
+font-weight: 400,
+font-family: 'Roboto', sans-serif;
+
+color---
+       greeen-- #21B573
+       black--- #000000
+       orange-- #FD511A
+       white--  #FFFFFF
+
+
+
+common code
+
+body--
+
+button--
+
+
+
+
+
+
+
+    <div class="offset-1 col-lg-9 col-md-11">
+      <div class="t_content">
+        <div class="row justify-content-center">
+          <div class="col-lg-2 col-md-2">
+            <div class="t_img">
+              <img src="images/testimonial.png" class="img-fluid" alt="E-school">
+            </div>
+          </div>
+          <div class="col-lg-9 col-md-10">
+            <div class="t_text">
+              <p>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour,  or randomised words which don't look even slightly believable.</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>

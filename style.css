@@ -1,0 +1,231 @@
+/*common code start*/
+body{
+	font-family: 'Poppins', sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	color:#000000;
+}
+
+.btn-common{
+	font-family: 'Roboto', sans-serif;
+	color:#FFFFFF;
+	line-height: 19px;
+	background: #21B573;
+	border: none;
+	border-radius: 33px;
+}
+.btn-common:hover{
+	color:#FFFFFF;
+	background: #FD511A;
+}
+/*common code end*/
+
+/*header start*/
+header{
+	padding:10px 0;
+	background-color: #F0FFF0;
+}
+.cnav{}
+.logo{
+	width: 200px;
+}
+
+.menu{}
+.menu ul li a{
+	padding: 0 20px !important;
+	font-size: 16px;
+	font-weight: 400;
+	color: #000000 !important;
+	line-height: 24px;	
+}
+.menu ul li a:hover{
+	color: #FD511A !important;
+}
+
+.h_button{
+	margin-left: 10px;
+	width: 104px;
+	height: 45px;
+}
+/*header end*/
+
+/*banner start*/
+.banner{
+	padding: 60px 0;
+	background-color: #F0FFF0;
+}
+.b_text{
+	padding-right: 97px;
+}
+.b_p1{
+	color: #FD511A;
+	line-height: 24px;
+}
+.b_h1{
+	margin: 10px 0 20px;
+	font-size: 48px;
+	font-weight: 700;
+	line-height: 70px;
+}
+.b_h1 span{
+	color:#21B573;
+}
+.b_p2{
+	line-height: 36px;
+}
+.b_link{
+	margin-top: 15px;
+	padding: 14px 35px;
+	width: 155px;
+	height: 45px;
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.b_img{}
+.ba_img{}
+/*banner end*/
+/*feature start*/
+.feature{
+	padding:40px 0 100px;
+}
+.f_single{
+	padding: 55px 0 50px;
+	background-color:#F0FFF0;
+	text-align: center;
+	border-radius: 10px;
+}
+.f_single:hover{
+	background-color: #fff;
+	box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+}
+.f_img{}
+.f_s_img{}
+.f_single h2{
+	margin:20px 0 0; 
+	font-weight: 500;
+	font-size: 24px;
+	line-height: 36px;
+}
+.f_single p{
+	line-height: 24px;
+}
+/*feature end*/
+
+/*online course start*/
+.online{
+	padding-bottom: 100px;
+}
+
+.oc_title{}
+.oc_title h1{
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 54px;
+}
+
+.s_card{
+	margin: 40px 0 0;
+	padding: 25px 20px 30px; 
+	box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+	border-radius: 18px;
+}
+.s_card-img{}
+.s_card-img img{
+	width: 100%;
+	border-radius: 11px;
+}
+.s_card h2{
+	margin: 20px 0 5px;
+	font-size: 24px;
+	font-weight: 500;
+	line-height: 36px;
+}
+.s_card p{
+	line-height: 24px;
+}
+.s_btn{
+	margin: 18px 0 35px;
+	padding: 8px 25px;
+	width: 135px;
+    height: 35px;
+}
+
+.s_card_footer{}
+
+.scf_left{}
+.scf_right{}
+.scf_left ul li img, .scf_right ul li img{
+
+}
+.scf_left ul li span, .scf_right ul li span{
+	font-weight: 500;
+	line-height: 24px;
+}
+.scf_c_mr{
+	margin-right: 6px !important;
+}
+
+/*online course end*/
+
+/*Testimonial start*/
+.Testimonial{
+	padding-bottom:100px;
+}
+
+.t_title{}
+.t_title h1{
+	font-size: 36px;
+	font-weight: 700;
+    line-height: 54px;
+}
+
+.t_content{
+	margin-top:50px;
+}
+.t_img{}
+.t_img img{}
+.t_text{
+	margin-left: 20px;
+}
+.t_text p{
+	margin-top: 15px;
+	line-height: 30px;
+}
+/*Testimonial end*/
+
+/*footer start*/
+footer{
+	padding:55px 0 25px;
+	background-color:#282531;
+}
+.f_content1{
+	margin-bottom: 70px;
+}
+
+.f_millions{}
+.f_millions p{
+	padding-right: 80px;
+	color: #FFFFFF;
+	line-height: 30px;
+}
+
+
+.f_menu ul li a{
+	color: #FFFFFF;
+	line-height: 30px;
+	text-decoration: none;
+}
+.f_menu ul li:nth-child(1) a{
+	font-size: 18px;
+	font-weight: 700;
+}
+.f_menu2{
+	margin-left: 40px;
+}
+
+.f_content2{}
+.f_content2 p{
+	color: #CDCDCD;
+	line-height: 30px;
+}
+/*footer end*/
